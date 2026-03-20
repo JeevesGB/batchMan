@@ -1,4 +1,14 @@
+-----------
+
 sound/
 wav_pool/
+mp3/
+
+-----------
+
+convert.py
 rename.py
+
+-----------
+
 list.txt
